@@ -31,3 +31,4 @@ bower_components/
 
 # Webstorm workspace config files
 .idea
+/src/styles/.sass-cache
