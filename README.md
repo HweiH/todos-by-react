@@ -1,4 +1,4 @@
-# todos-by-angular
+# todos-by-react
 
 This project is generated with [yo react-webpack generator](https://github.com/yeoman/generator-angular)
 version 3.3.2
